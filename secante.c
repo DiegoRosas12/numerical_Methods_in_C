@@ -1,3 +1,9 @@
+/*
+Universidad de Guanjuato
+Division de Ingenierias Capus Irapuato Salamanca
+Diego Eduardo Rosas Gonzalez
+07/sep/17
+*/
 #include <stdio.h>
 #include <math.h>
 
