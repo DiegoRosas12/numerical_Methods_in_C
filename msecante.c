@@ -2,7 +2,6 @@
 #include<math.h> 
 #include<stdlib.h> 
 #include<stdio.h> 
-#include<iostream.h> 
 
 double f(float Xi); 
 double f1(float Xr); 
